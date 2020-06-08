@@ -44,13 +44,20 @@ h1 {
   height: 100vh;
 }
 
+.page-title {
+  padding-top: 5.625rem;
+  color: #5f97bd;
+  font-size: 6.8rem;
+  font-weight: 400;
+  font-family: 'Indie Flower', cursive;
+}
 .footer {
-   height: 200px;
-    background-color :#c5ded7;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 60px;
+  height: 200px;
+  background-color :#c5ded7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
 }
 
 .logos {
