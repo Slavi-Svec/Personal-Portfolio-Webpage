@@ -3,8 +3,8 @@
 }
 
 #navbar {
-  background:#e0ebe8;
-  height: 90px;
+  background:#e0ebeb;
+  height: 60px;
   width: 100%;
   top: 0;
   left: 0;
@@ -38,6 +38,11 @@
 
 h1 {
   color: #5f97bd;
+}
+
+h2 {
+  color: #5f97bd;
+
 }
 
 .viewport {
@@ -80,3 +85,34 @@ h1 {
 
   }
 }
+
+.work-heading {
+  text-align: center;
+}
+
+.work-grid {
+  margin: 20px auto;
+  width:400px;
+  height:400px;
+  background-color:#fff;
+  display:grid;
+  grid-template-columns: 200px 200px;
+  grid-row: auto auto;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+
+}
+  .box{
+    background-color:#e0ebe8;
+    padding:20px;
+    /* border-radius:10px; */
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    /* font-size:40px; */
+    /* font-family:sans-serif; */
+    color: #5f97bd;
+  }
+
+
