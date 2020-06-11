@@ -79,12 +79,12 @@ h2 {
   height: 100vh;
 } */
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
 
    {
 
   }
-}
+} */
 
 .work-heading {
   text-align: center;
@@ -105,13 +105,13 @@ h2 {
   .box{
     background-color:#e0ebe8;
     padding:20px;
-    /* border-radius:10px; */
+    border-radius:10px;
     color:#fff;
     display:flex;
     align-items:center;
     justify-content:center;
-    /* font-size:40px; */
-    /* font-family:sans-serif; */
+    font-size:20px;
+    font-family:sans-serif;
     color: #5f97bd;
   }
 
