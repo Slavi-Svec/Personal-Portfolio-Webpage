@@ -94,10 +94,9 @@ h2 {
 .page-title {
   padding-top: 0.625rem;
   margin: 0;
-  color: #5f97bd;
+  color: hsla(204, 85%, 13%, 0.89);
   font-size: 130px;
   font-weight: 400;
-  /* font-family: 'Indie Flower', cursive; */
   font-family: Lemon Jelly Personal Use;
   font-weight: 100;
 }
@@ -205,6 +204,4 @@ h2 {
   .nav-titles {
     width: 60%;
   }
-
-
 }
